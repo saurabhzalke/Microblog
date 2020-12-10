@@ -1,2 +1,2 @@
 # flaskMicroblog
-A microblog built using flask
+A microblog built using flask.
